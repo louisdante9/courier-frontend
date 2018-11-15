@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/courier-frontend/static/css/main.c7170273.chunk.css"
   },
   {
-    "revision": "75e0739c8bf1073a6ba097e512133c9d",
+    "revision": "19ee69f6933146f95e9cc5a4ec10d7d0",
     "url": "/courier-frontend/index.html"
   }
 ];
