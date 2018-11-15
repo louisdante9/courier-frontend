@@ -1,16 +1,16 @@
 {
-  "main.css": "/courier-frontend/static/css/main.c7170273.chunk.css",
-  "main.js": "/courier-frontend/static/js/main.3a44aedc.chunk.js",
-  "main.js.map": "/courier-frontend/static/js/main.3a44aedc.chunk.js.map",
-  "static/js/1.6fb4c91f.chunk.js": "/courier-frontend/static/js/1.6fb4c91f.chunk.js",
-  "static/js/1.6fb4c91f.chunk.js.map": "/courier-frontend/static/js/1.6fb4c91f.chunk.js.map",
+  "main.css": "/courier-frontend/static/css/main.24db6bed.chunk.css",
+  "main.js": "/courier-frontend/static/js/main.d371122c.chunk.js",
+  "main.js.map": "/courier-frontend/static/js/main.d371122c.chunk.js.map",
+  "static/js/1.8dbc11e8.chunk.js": "/courier-frontend/static/js/1.8dbc11e8.chunk.js",
+  "static/js/1.8dbc11e8.chunk.js.map": "/courier-frontend/static/js/1.8dbc11e8.chunk.js.map",
   "runtime~main.js": "/courier-frontend/static/js/runtime~main.0714bb18.js",
   "runtime~main.js.map": "/courier-frontend/static/js/runtime~main.0714bb18.js.map",
-  "static/css/main.c7170273.chunk.css.map": "/courier-frontend/static/css/main.c7170273.chunk.css.map",
+  "static/css/main.24db6bed.chunk.css.map": "/courier-frontend/static/css/main.24db6bed.chunk.css.map",
   "static/media/citysprint.png": "/courier-frontend/static/media/citysprint.303d3ee9.png",
   "static/media/cloud-screenshot.png": "/courier-frontend/static/media/cloud-screenshot.a4dd2315.png",
   "static/media/trakpak-9842.png": "/courier-frontend/static/media/trakpak-9842.1f986893.png",
   "index.html": "/courier-frontend/index.html",
-  "precache-manifest.0023bfc7307b8a954d1b2a68fe45a2e5.js": "/courier-frontend/precache-manifest.0023bfc7307b8a954d1b2a68fe45a2e5.js",
+  "precache-manifest.badc9678801dc5ce0d88285f08232a46.js": "/courier-frontend/precache-manifest.badc9678801dc5ce0d88285f08232a46.js",
   "service-worker.js": "/courier-frontend/service-worker.js"
 }
