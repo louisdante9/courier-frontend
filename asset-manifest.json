@@ -1,9 +1,9 @@
 {
   "main.css": "/courier-frontend/static/css/main.24db6bed.chunk.css",
-  "main.js": "/courier-frontend/static/js/main.e64aa49c.chunk.js",
-  "main.js.map": "/courier-frontend/static/js/main.e64aa49c.chunk.js.map",
-  "static/js/1.8dbc11e8.chunk.js": "/courier-frontend/static/js/1.8dbc11e8.chunk.js",
-  "static/js/1.8dbc11e8.chunk.js.map": "/courier-frontend/static/js/1.8dbc11e8.chunk.js.map",
+  "main.js": "/courier-frontend/static/js/main.dea8f07a.chunk.js",
+  "main.js.map": "/courier-frontend/static/js/main.dea8f07a.chunk.js.map",
+  "static/js/1.9063dc10.chunk.js": "/courier-frontend/static/js/1.9063dc10.chunk.js",
+  "static/js/1.9063dc10.chunk.js.map": "/courier-frontend/static/js/1.9063dc10.chunk.js.map",
   "runtime~main.js": "/courier-frontend/static/js/runtime~main.0714bb18.js",
   "runtime~main.js.map": "/courier-frontend/static/js/runtime~main.0714bb18.js.map",
   "static/css/main.24db6bed.chunk.css.map": "/courier-frontend/static/css/main.24db6bed.chunk.css.map",
@@ -11,6 +11,6 @@
   "static/media/cloud-screenshot.png": "/courier-frontend/static/media/cloud-screenshot.a4dd2315.png",
   "static/media/trakpak-9842.png": "/courier-frontend/static/media/trakpak-9842.1f986893.png",
   "index.html": "/courier-frontend/index.html",
-  "precache-manifest.216d885f95c513657a63433de4dc4a90.js": "/courier-frontend/precache-manifest.216d885f95c513657a63433de4dc4a90.js",
+  "precache-manifest.c81abe894c0d41fd44e6fb0891751917.js": "/courier-frontend/precache-manifest.c81abe894c0d41fd44e6fb0891751917.js",
   "service-worker.js": "/courier-frontend/service-worker.js"
 }
